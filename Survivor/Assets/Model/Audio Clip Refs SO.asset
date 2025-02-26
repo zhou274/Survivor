@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4ff22bbbf2331f4d8b6c8c8b58e9493, type: 3}
+  m_Name: Audio Clip Refs SO
+  m_EditorClassIdentifier: 
+  DartLaunch: {fileID: 8300000, guid: ba5a1cab2bf5f274bb075e1e95bf7f8b, type: 3}
+  BoomerangLaunch: {fileID: 8300000, guid: 619a62f6d41dd4749bd085cb16557947, type: 3}
+  FootBallLaunch: {fileID: 8300000, guid: d6766c85653256a4cb5fbc0cc10d8938, type: 3}
+  MissileLaunch: {fileID: 8300000, guid: 430ee1f3887dc664da66a5b24c358af5, type: 3}
+  RocketLaunch: {fileID: 8300000, guid: 9d9fb3e684d610a419278eff7fb46659, type: 3}
+  RockLaunch: {fileID: 8300000, guid: d6766c85653256a4cb5fbc0cc10d8938, type: 3}
+  DartHit: {fileID: 8300000, guid: a155fac8ad7743f45bb9d10a5385fb3d, type: 3}
+  BoomerangHit: {fileID: 8300000, guid: a155fac8ad7743f45bb9d10a5385fb3d, type: 3}
+  FootBallHit: {fileID: 8300000, guid: a155fac8ad7743f45bb9d10a5385fb3d, type: 3}
+  RockHit: {fileID: 8300000, guid: 0edbc4db1db297149b4d92f23645341f, type: 3}
+  Boom: {fileID: 8300000, guid: cfa4ae951daf3ba4bbbecb1e4bcddbb4, type: 3}
+  Remind: {fileID: 8300000, guid: 918b45ef43037d14a85ad796786a1785, type: 3}
+  BtnClick: {fileID: 8300000, guid: 6e50e17bb9ae15c488a55d29847aeeef, type: 3}
